@@ -24,7 +24,8 @@
 
 ### Quick Start :rocket: 
 
-Open your terminal and run `npm start`
+Open your terminal
+and run `npm start`
 
 ### Setup :gear:
 
